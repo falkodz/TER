@@ -3,7 +3,6 @@ import nltk
 import spacy
 from nltk.corpus import stopwords
 
-# Téléchargement des ressources NLTK
 nltk.download('stopwords', quiet=True)
 nltk.download('punkt', quiet=True)
 
